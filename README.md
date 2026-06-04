@@ -20,7 +20,7 @@ A Frifas Bio API oferece endpoints para desenvolvedores que desejam atualizar a 
 
 Atualiza a biografia de uma conta utilizando o token EAT (access token).
 
-**Endpoint:** `GET /uptade-bio/account`
+**Endpoint:** `GET /update-bio/account`
 
 ### Parâmetros
 
@@ -71,7 +71,7 @@ Atualiza a biografia de uma conta utilizando o token EAT (access token).
 
 Atualiza a biografia de uma conta utilizando UID e senha. O endpoint obtém os tokens automaticamente e realiza a atualização.
 
-**Endpoint:** `GET /uptade-bio/guest`
+**Endpoint:** `GET /update-bio/guest`
 
 ### Parâmetros
 
