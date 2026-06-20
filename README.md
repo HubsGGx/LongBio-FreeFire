@@ -8,7 +8,7 @@ A Frifas Bio API oferece endpoints para desenvolvedores que desejam atualizar a 
 
 ## Informações Gerais
 
-*   **Base URL:** `https://hubsdev.com/api/frifas`
+*   **Base URL:** `https://fluxdevservice.com/api/frifas`
 *   **Formato de Dados:** JSON
 *   **Autenticação:** Chave de API via parâmetro `key`
 *   **Timeout Padrão:** 30 segundos
